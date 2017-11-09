@@ -1,0 +1,9 @@
+[package]
+name = "labware_tracker"
+version = "0.1.0"
+authors = ["stevieing <stevieing@sky.com>"]
+description = "My first cargo test - A labware tracker"
+license = "MIT/Apache-2.0"
+
+[dependencies]
+rustc-serialize = "0.3"

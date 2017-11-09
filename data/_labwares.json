@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Labware 1",
+      "timestamp": "2012-03-19T07:22Z",
+      "labware_type": "Plate"
+    },
+     {
+      "id": 2,
+      "name": "Labware 2",
+      "timestamp": "2012-03-19T07:22Z",
+      "labware_type": "Plate"
+    },
+    {
+      "id": 3,
+      "name": "Labware 3",
+      "timestamp": "2012-04-19T09:22Z",
+      "labware_type": "Tube"
+    }
+  ]
+}
